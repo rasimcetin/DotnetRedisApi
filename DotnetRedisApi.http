@@ -1,0 +1,6 @@
+@DotnetRedisApi_HostAddress = http://localhost:5193
+
+GET {{DotnetRedisApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
